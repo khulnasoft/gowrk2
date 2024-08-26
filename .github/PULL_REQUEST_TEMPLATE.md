@@ -5,12 +5,12 @@ This PR fixes #
 **Notes for Reviewers**
 
 
-**[Signed commits](https://github.com/layer5io/layer5/blob/master/CONTRIBUTING.md#signing-off-on-commits-developer-certificate-of-origin)**
+**[Signed commits](https://github.com/khulnasoft/khulnasoft/blob/master/CONTRIBUTING.md#signing-off-on-commits-developer-certificate-of-origin)**
 - [ ] Yes, I signed my commits.
  
 
 <!--
-Thank you for contributing to Layer5 projects! 
+Thank you for contributing to KhulnaSoft projects! 
 
 Contributing Conventions:
 

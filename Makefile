@@ -1,5 +1,5 @@
 get-wrk:
-	git clone https://github.com/layer5io/wrk2.git
+	git clone https://github.com/khulnasoft/wrk2.git
 
 docker-build-base:
 	docker image prune -f
@@ -8,4 +8,4 @@ docker-build-base:
 docker-run:
 	docker rm -f gowrk2 || true
 	docker volume prune -f
-	docker run --rm --name gowrk2 -it -v `pwd`:/github.com/layer5io/gowrk2 --workdir=/github.com/layer5io/gowrk2 -e WRK_LOCATION=wrk wrk2 go run main.go
+	docker run --rm --name gowrk2 -it -v `pwd`:/github.com/khulnasoft/gowrk2 --workdir=/github.com/khulnasoft/gowrk2 -e WRK_LOCATION=wrk wrk2 go run main.go

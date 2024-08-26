@@ -1,4 +1,4 @@
-module github.com/layer5io/gowrk2
+module github.com/khulnasoft/gowrk2
 
 go 1.13
 
