@@ -16,7 +16,7 @@ assignees: ''
 
 **Enviroment:**
 - Host OS: 
-- Meshery Version: 
+- Meshplay Version: 
 - Kubernetes Version: 
 - Browser: 
 
